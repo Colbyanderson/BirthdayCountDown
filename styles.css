@@ -1,0 +1,22 @@
+body {
+  background-color: #C0D6DF;
+}
+h1{
+  align-items: center;
+  color: #AE76A6;
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 60px;
+}
+.pics{
+  height: 200px;
+}
+div{
+  display: flex;
+  justify-content: center;
+  justify-content: flex-end;
+  justify-content: space-between;
+}
+h3{
+ font-size: 50px;
+ color: #F08CAE;
+}
